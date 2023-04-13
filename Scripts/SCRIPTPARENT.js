@@ -1,0 +1,1 @@
+aa.print("parent script");
